@@ -1,0 +1,10 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "main": "mockServer.js",
+  "scripts": {
+    "start": "node mockServer.js"
+  },
+  "author": "Gilbert Komin",
+  "license": "MIT"
+}
